@@ -1,0 +1,11 @@
+{
+  "name": "anim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test --coverage"
+  },
+  "author": "Danvintius",
+  "license": "ISC"
+}

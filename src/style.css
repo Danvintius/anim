@@ -1,0 +1,15 @@
+button {
+  background-color: blue;
+  height: 25px;
+  color: white;
+}
+
+.text {
+  border: 1px gray solid;
+  visibility: hidden;
+  height: 20px;
+}
+
+.text-expanded {
+  height: 100px;
+}
